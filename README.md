@@ -46,7 +46,7 @@
 
 ### 📬 Connect With Me
 <p align="left">
-  <a href="mailto:gokulrajv59.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:gokulrajv59@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/gokulrajvijayakumar"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
