@@ -2,7 +2,7 @@
 <h3 align="center">Java Developer | Machine Learning Engineer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="[https://i.imgur.com/OZaT7jl.png](https://github.com/gokulraj-5/gokulraj-5/blob/main/gokul_raj_githubbanner.png)" alt="Banner" width="100%" />
+  <img src="https://i.imgur.com/OZaT7jl.png](https://github.com/gokulraj-5/gokulraj-5/blob/main/gokul_raj_githubbanner.png" alt="Banner" width="100%" />
 </p>
 
 <p align="center">
