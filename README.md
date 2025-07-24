@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **Java backend systems** and **ML model pipelines**
 - 🌱 Exploring **MLOps** and scalable **Java microservices**
 - 👯 Collaborating on **AI tools**, **chatbots**, and **smart automation**
-- 📫 How to reach me: **gokulrajv59.com**
+- 📫 How to reach me: **gokulrajv59@gmail.com**
 
 ---
 
