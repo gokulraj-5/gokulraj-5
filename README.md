@@ -2,15 +2,7 @@
 <h3 align="center">Java Developer | Machine Learning Engineer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/OZaT7jl.png](https://github.com/gokulraj-5/gokulraj-5/blob/main/gokul_raj_githubbanner.png" alt="Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lendedkill&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Profile" width="120" style="border-radius: 50%;" />
+  <img src="https://github.com/gokulraj-5/gokulraj-5/blob/main/gokul_raj_githubbanner.png" alt="Banner" width="100%" />
 </p>
 
 ---
