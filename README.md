@@ -1,38 +1,43 @@
 <h1 align="center">Hi 👋, I'm Gokulraj V</h1>
-<h3 align="center">Java Developer | Machine Learning Engineer | Open Source Enthusiast</h3>
+<h3 align="center">AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/gokulraj-5/gokulraj-5/blob/main/gokul_raj_githubbanner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/gokulraj-5/gokulraj-5/blob/main/gokulraj-banner.png" alt="Banner" width="100%" />
 </p>
 
 ---
 
 ### 🧠 About Me
-- 🔭 I’m currently working on **Java backend systems** and **ML model pipelines**
-- 🌱 Exploring **MLOps** and scalable **Java microservices**
-- 👯 Collaborating on **AI tools**, **chatbots**, and **smart automation**
-- 📫 How to reach me: **gokulrajv59@gmail.com**
+
+- 🌱 AI & Machine Learning enthusiast learning core concepts step by step  
+- 🤖 Exploring Machine Learning, Deep Learning, and Generative AI  
+- 🧠 Learning about Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG)  
+- 🧪 Building beginner-level projects in AI tools, chatbots, and smart automation  
+- 📚 Interested in applying LLMs + RAG to real-world information systems  
+- 🎯 Aspiring AI/ML Engineer focused on strong fundamentals and hands-on learning  
+- 📫 Reach me at: **gokulrajv59@gmail.com**
+
 
 ---
 
-### 🛠️ Languages and Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-</p>
+## 🏷️ AI / GenAI Focus
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6A0DAD?style=for-the-badge)
+![LLM](https://img.shields.io/badge/Large%20Language%20Models-FF6F00?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4CAF50?style=for-the-badge)
+
 
 ---
 
 ### 🚀 Featured Projects
 | Project | Description |
 |--------|-------------|
-| [Flower Classifier](https://github.com/gokulraj-5/ml-project) | 🤖 Flower Classifier with AI and ML integration |
+| [Pothole Detection System](https://github.com/gokulraj-5/Pothole_Detection_Project) | 🛣️ Computer vision–based system using deep learning to detect potholes from **images, videos, and live camera feed** |
+| [Movie Recommendation System](https://github.com/gokulraj-5/movie_recommendation_system) | 🎬 **Netflix-like recommendation system** using machine learning to suggest movies based on user preferences and similarity techniques |
+
 
 ---
 
@@ -53,5 +58,6 @@
 ---
 
 <p align="center">
-  ⭐ _“Code is poetry, logic is rhythm.”_  
+  ⭐ <i>“Exploring AI today to build intelligent systems tomorrow.”</i>
 </p>
+>
