@@ -19,15 +19,25 @@
 
 
 ---
+### 🛠️ Languages & Tools
+<p align="left">
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
 
-## 🏷️ AI / GenAI Focus
+  <!-- Data & Machine Learning -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow" />
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-6A0DAD?style=for-the-badge)
-![LLM](https://img.shields.io/badge/Large%20Language%20Models-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4CAF50?style=for-the-badge)
+  <!-- Version Control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+
+  <!-- Environment -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter Notebook" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="40" title="Google Colab" />
+</p>
 
 
 ---
@@ -43,9 +53,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulraj-5&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulraj-5&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulraj-5&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gokulraj-5&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulraj-5&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
@@ -60,4 +78,3 @@
 <p align="center">
   ⭐ <i>“Exploring AI today to build intelligent systems tomorrow.”</i>
 </p>
->
